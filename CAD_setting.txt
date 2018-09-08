@@ -1,0 +1,2 @@
+bpy.context.scene.system = 'METRIC'
+bpy.context.scene.scale_length = 0.001
